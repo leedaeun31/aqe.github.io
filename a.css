@@ -1,0 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+
+div.bg{
+    background-image: url(./pexels-944398.jpg);
+}
